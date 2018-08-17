@@ -1,0 +1,125 @@
+Jul 24 14:45:00 tully-re0 newsyslog[18819]: logfile turned over due to size>2048K
+Jul 24 14:45:01.090  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:05.049  tully-re0 last message repeated 12 times
+Jul 24 14:45:05.588  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:05.658  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:15.556  tully-re0 last message repeated 31 times
+Jul 24 14:45:16.426  tully-re0 last message repeated 2 times
+Jul 24 14:45:16.612  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:16.612  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:16.617  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/usr/sbin/cprod', PID 18823, status 0
+Jul 24 14:45:16.628  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:17.465  tully-re0 last message repeated 7 times
+Jul 24 14:45:17.621  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:17.741  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:28.179  tully-re0 last message repeated 31 times
+Jul 24 14:45:28.646  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:28.693  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:38.250  tully-re0 last message repeated 30 times
+Jul 24 14:45:38.669  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:38.669  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:38.674  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/usr/sbin/cprod', PID 18824, status 0
+Jul 24 14:45:39.126  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:39.647  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:39.679  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:40.120  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:45.736  tully-re0 last message repeated 21 times
+Jul 24 14:45:51.581  tully-re0 last message repeated 15 times
+Jul 24 14:45:51.603  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:51.641  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:58.581  tully-re0 last message repeated 20 times
+Jul 24 14:45:58.620  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'file-list path=/dev/null'
+Jul 24 14:45:58.620  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/bin/sh'
+Jul 24 14:45:58.628  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/bin/sh', PID 18825, status 0
+Jul 24 14:45:58.878  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:59.297  tully-re0 last message repeated 3 times
+Jul 24 14:45:59.632  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:59.633  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:00 tully-re0 newsyslog[18819]: logfile turned over due to size>2048K
+Jul 24 14:45:01.090  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:05.049  tully-re0 last message repeated 12 times
+Jul 24 14:45:05.588  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:05.658  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:15.556  tully-re0 last message repeated 31 times
+Jul 24 14:45:16.426  tully-re0 last message repeated 2 times
+Jul 24 14:45:16.612  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:16.612  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:16.617  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/usr/sbin/cprod', PID 18823, status 0
+Jul 24 14:45:16.628  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:17.465  tully-re0 last message repeated 7 times
+Jul 24 14:45:17.621  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:17.741  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:28.179  tully-re0 last message repeated 31 times
+Jul 24 14:45:28.646  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:28.693  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:38.250  tully-re0 last message repeated 30 times
+Jul 24 14:45:38.669  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:38.669  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:38.674  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/usr/sbin/cprod', PID 18824, status 0
+Jul 24 14:45:39.126  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:39.647  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:39.679  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:40.120  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:45.736  tully-re0 last message repeated 21 times
+Jul 24 14:45:51.581  tully-re0 last message repeated 15 times
+Jul 24 14:45:51.603  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:51.641  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:58.581  tully-re0 last message repeated 20 times
+Jul 24 14:45:58.620  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'file-list path=/dev/null'
+Jul 24 14:45:58.620  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/bin/sh'
+Jul 24 14:45:58.628  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/bin/sh', PID 18825, status 0
+Jul 24 14:45:58.878  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:59.297  tully-re0 last message repeated 3 times
+Jul 24 14:45:59.632  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:59.633  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:00 tully-re0 newsyslog[18819]: logfile turned over due to size>2048K
+Jul 24 14:45:01.090  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:05.049  tully-re0 last message repeated 12 times
+Jul 24 14:45:05.588  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:05.658  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:15.556  tully-re0 last message repeated 31 times
+Jul 24 14:45:16.426  tully-re0 last message repeated 2 times
+Jul 24 14:45:16.612  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:16.612  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:16.617  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/usr/sbin/cprod', PID 18823, status 0
+Jul 24 14:45:16.628  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:17.465  tully-re0 last message repeated 7 times
+Jul 24 14:45:17.621  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:17.741  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:28.179  tully-re0 last message repeated 31 times
+Jul 24 14:45:28.646  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:28.693  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:38.250  tully-re0 last message repeated 30 times
+Jul 24 14:45:38.669  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:38.669  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 24 14:45:38.674  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/usr/sbin/cprod', PID 18824, status 0
+Jul 24 14:45:39.126  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:39.647  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:39.679  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:40.120  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:45.736  tully-re0 last message repeated 21 times
+Jul 24 14:45:51.581  tully-re0 last message repeated 15 times
+Jul 24 14:45:51.603  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 24 14:45:51.641  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:58.581  tully-re0 last message repeated 20 times
+Jul 24 14:45:58.620  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'file-list path=/dev/null'
+Jul 24 14:45:58.620  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/bin/sh'
+Jul 24 14:45:58.628  tully-re0 mgd[90780]: UI_CHILD_STATUS: Cleanup child '/bin/sh', PID 18825, status 0
+Jul 24 14:45:58.878  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 24 14:45:59.297  tully-re0 last message repeated 3 times
+Jul 24 14:45:59.632  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'request-pfe-execute target=fpc2 command=show jnh exceptions-trace timeout=0'
+Jul 24 14:45:59.633  tully-re0 mgd[90780]: UI_CHILD_START: Starting child '/usr/sbin/cprod'
+Jul 25 14:45:00 tully-re0 newsyslog[18819]: logfile turned over due to size>2048K
+Jul 25 14:45:01.090  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 25 14:45:05.049  tully-re0 last message repeated 12 times
+Jul 25 14:45:05.588  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 25 14:45:05.658  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 25 14:45:15.556  tully-re0 last message repeated 31 times
+Jul 25 14:45:16.426  tully-re0 last message repeated 2 times
+Jul 26 14:45:00 tully-re0 newsyslog[18819]: logfile turned over due to size>2048K
+Jul 26 14:45:01.090  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 26 14:45:05.049  tully-re0 last message repeated 12 times
+Jul 26 14:45:05.588  tully-re0 mgd[90780]: UI_NETCONF_CMD: User 'labroot' used NETCONF client to run command 'get-rsvp-session-information'
+Jul 26 14:45:05.658  tully-re0 rpd[80856]: : Can't assign requested address
+Jul 26 14:45:15.556  tully-re0 last message repeated 31 times
+Jul 26 14:45:16.426  tully-re0 last message repeated 2 times

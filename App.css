@@ -1,0 +1,214 @@
+html {
+  overflow-y: scroll;
+}
+.vizlog {
+  text-align: center;
+}
+
+.inputDiv{
+  background-image: url(bg1.jpg);
+  background-blend-mode: soft-light;
+}
+
+.greenhline{
+stroke:lightgreen;
+stroke-width:0.5;
+position: absolute;
+animation-name: greenline;
+animation-duration: 2s;
+}
+
+@keyframes greenline {
+    from {stroke: none;}
+    to {stroke: lightgreen;}
+}
+
+@keyframes redline {
+    from {stroke: none;}
+    to {stroke: red;}
+}
+
+.greenvline{
+stroke:lightgreen;
+stroke-width:0.5;
+position: absolute;
+}
+
+.redhline{
+stroke:red;
+stroke-width:0.5;
+position: absolute;
+animation-name: redline;
+animation-duration: 2s;
+}
+
+.redvline{
+stroke:red;
+stroke-width:0.5;
+position: absolute;
+}
+
+.svg{
+  margin-top: -14px;
+}
+
+.timestamp
+{
+  font-size: 1.2px;
+  font-weight: bold;
+  font-family:monospace;
+  animation-name: timeanim;
+  animation-duration: 2s;
+
+}
+@keyframes timeanim {
+    from {font-size: 0px;}
+    to {font-size: 1.2px;}
+}
+
+.brieflog
+{
+  font-size: 1px;
+  font-family:monospace;
+  animation-name: textanim;
+  animation-duration: 2s;
+}
+
+@keyframes textanim {
+    from {font-size: 0px;}
+    to {font-size: 1px;}
+}
+
+.print {
+  position: relative;
+  left: -55px;
+  top:0px;
+}
+
+.datepicker{
+  border-radius: 15px;
+  position: relative;
+  left: -40px;
+  top:0px;
+}
+
+.factorList{
+  position: relative;
+  border-style:hidden;
+}
+
+.factorListVisible{
+  position: relative;
+  border-style: outset;
+  border-color: gainsboro;
+  border-width: 2px;
+  height: auto;
+  width: 500px;
+  left:33%;
+  top: 50%;
+  border-radius: 20px;
+}
+
+.factorButton:after
+{
+  background: #fff;
+  opacity: 0;
+  border-radius: 5px;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.factorButton {
+background-color:LightCoral;
+border-radius: 5px;
+height: 25px;
+width: auto;
+color: white;
+}
+
+.factorButton:hover {
+background-image: url(delete.png);
+background-size: 15px;
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 5px;
+height: 25px;
+width: 40px;
+color: black;
+font-size: 0px;
+}
+
+
+/**********************************************************/
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 20px;
+  top: 5px;
+  left: -75px;
+}
+
+.switch input {display:none;}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 2px;
+  background-color: LightCoral;
+  -webkit-transition: .4s;
+  transition: .4s;
+   border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2ab934;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(10px);
+  -ms-transform: translateX(10px);
+  transform: translateX(32px);
+}
+
+/*------ ADDED CSS ---------*/
+.slider:after
+{
+ content:'Dsc';
+ color: white;
+ display: block;
+ position: absolute;
+ transform: translate(-50%,-50%);
+ top: 50%;
+ left: 65%;
+ font-size: 10px;
+ font-family: Verdana, sans-serif;
+}
+
+input:checked + .slider:after
+{
+  content:'Asc';
+  position: relative;
+  left:15px;
+}
+
+
+/**********************************************************/
